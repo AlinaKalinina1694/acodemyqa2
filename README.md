@@ -12,7 +12,7 @@ Start with a FREE Bootcamp in most popular IT company Accenture Baltic. The team
 
 ![Accenture](C:\Users\alina.kalinina\Downloads\download.png)
 
-![Accenture] (https://github.com/AlinaKalinina1694/acodemyqa2/blob/03f90af890a4741950d72a08bf49bf25f8a6cfb3/download.png)
+![Accenture](https://github.com/AlinaKalinina1694/acodemyqa2/blob/03f90af890a4741950d72a08bf49bf25f8a6cfb3/download.png)
 
 ***If you want to start your journey asap please use some my tips:***
 
