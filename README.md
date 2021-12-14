@@ -9,7 +9,7 @@ Information Technology is not an isolated industry. It overlaps with every other
 _Want to enter the IT industry?_
 
 Start with a FREE Bootcamp in most popular IT company Accenture Baltic. The team of experts can help you start this interesting and exciting journey. You may ask me what you need to start? I can answer - You need only to apply your CV in [Accenture Bootcamp](https://bootcamp.lv).
-![Accenture picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.savethechildren.org%2Fus%2Fabout-us%2Fbecome-a-partner%2Fcorporations%2Faccenture&psig=AOvVaw2Md1yrJnOX2Odc_cg6xMTC&ust=1639488024895000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjuof3u4PQCFQAAAAAdAAAAABAD)
+![Accenture](C:\Users\alina.kalinina\Downloads\download.png)
 
 ***If you want to start your journey asap please use some my tips:***
 
