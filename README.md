@@ -10,7 +10,6 @@ _Want to enter the IT industry?_
 
 Start with a FREE Bootcamp in most popular IT company Accenture Baltic. The team of experts can help you start this interesting and exciting journey. You may ask me what you need to start? I can answer - You need only to apply your CV in [Accenture Bootcamp](https://bootcamp.lv).
 
-![Accenture](C:\Users\alina.kalinina\Downloads\download.png)
 
 ***If you want to start your journey asap please use some my tips:***
 
