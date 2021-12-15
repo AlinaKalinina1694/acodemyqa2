@@ -21,5 +21,10 @@ Start with a FREE Bootcamp in most popular IT company Accenture Baltic. The team
 
 **I think if there is a desire, then everything will work out.** 
 
-Do not be afraid and act :+1: :two_hearts:
+#Benefits from IT
 
+- [x] You will get a work in modern technology industry
+- [x] You always will be in the subject of new technology things
+- [x] Work in IT will allow always get you a new knowledges 
+
+Do not be afraid and act :+1: :two_hearts:
