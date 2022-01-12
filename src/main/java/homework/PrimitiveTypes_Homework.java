@@ -155,10 +155,21 @@ public class PrimitiveTypes_Homework {
         System.out.println("Byte maximum value: " + Byte.MAX_VALUE);
 
         System.out.println("Integer minimum value: " + Integer.MIN_VALUE);
+        System.out.println("Integer maximum value: " + Integer.MAX_VALUE);
 
+        System.out.println("Short minimum value: " + Short.MIN_VALUE);
+        System.out.println("Short maximum value: " + Short.MAX_VALUE);
 
+        System.out.println("Long minimum value: " + Long.MIN_VALUE);
+        System.out.println("Long maximum value: " + Long.MAX_VALUE);
 
-//Exercise 3 "Arithmetic operators"
+        System.out.println("Float minimum value: " + Float.MIN_VALUE);
+        System.out.println("Float maximum value: " + Float.MAX_VALUE);
+
+        System.out.println("Double minimum value: " + Double.MIN_VALUE);
+        System.out.println("Double maximum value: " + Double.MAX_VALUE);
+
+       //Exercise 3 "Arithmetic operators"
     //Example 1
         int a=25;
         int b=5;
